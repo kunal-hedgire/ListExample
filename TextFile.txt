@@ -1,0 +1,3 @@
+name = satish-- course = 3500Fees = 35000
+name = sa-- course = 5000Fees = 35000
+name = abc-- course = testingFees = 15000

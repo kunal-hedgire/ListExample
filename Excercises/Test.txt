@@ -1,0 +1,4 @@
+HI this is a python text file.
+you can use it for anythings
+Bye...
+
